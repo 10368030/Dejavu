@@ -1,0 +1,15 @@
+h1 {
+	color: white;
+	background-color: black;
+	text-align: right;
+}
+
+body {
+	background-color:#d4d4d4;
+}
+
+hr {
+	border: 1px solid black;
+	margin-left: 3em;
+  	margin-right: 3em;	
+}
